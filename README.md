@@ -6,6 +6,7 @@ to improve the handstand for minimal strength requirements.
 ---------------------------------------------------------------------------
 Example results:
 
+![final_crop](https://github.com/nikmusi/handstand_trainer/assets/92788466/0fec7664-a209-4b57-80da-959bedb8faa6)
 
 ---------------------------------------------------------------------------
 Used libraries:
